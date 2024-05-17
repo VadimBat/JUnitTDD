@@ -1,7 +1,7 @@
 package com.goit.calculator;
 
 /**
- * SumCalculator class gives sum from n numbers
+ * SumCalculator class gives sum of n numbers
  */
 public class SumCalculator {
     public int sum(int n) {
